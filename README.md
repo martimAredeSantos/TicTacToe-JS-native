@@ -1,7 +1,7 @@
 #TicTacToe-JS-native
 
-Lets test it out!
+##Lets test it out!
 
-[click here to tac!]https://martimaredesantos.github.io/TicTacToe-JS-native/
+[CLICK ME](https://martimaredesantos.github.io/TicTacToe-JS-native/)👀
 
 
